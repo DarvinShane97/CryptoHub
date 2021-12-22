@@ -35,7 +35,7 @@ a:hover{
 }
 .routes{
     padding: 20px;
-    background-color: rgb(208, 240, 255);
+    background-color: rgb(240, 250, 255);
 
 }
 .nav-container{
@@ -261,7 +261,7 @@ a:hover{
 }
 
 .coin-link:hover, .coin-stats:hover{
-    background-color: var(--bgSecondary);
+    background-color: rgb(253, 0, 139);
 }
 
 @media screen and (max-width:1000px){
