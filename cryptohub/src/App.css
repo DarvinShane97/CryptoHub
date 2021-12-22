@@ -35,7 +35,7 @@ a:hover{
 }
 .routes{
     padding: 20px;
-    background-color: rgb(240, 250, 255);
+    background-color: rgb(227, 249, 255);
 
 }
 .nav-container{
@@ -130,6 +130,7 @@ a:hover{
     }
     .home-title{
         font-size: 1.4rem !important;
+        color: rgb(255, 255, 255);
     }
     .show-more{
         font-size: 1.3rem !important;
@@ -261,7 +262,7 @@ a:hover{
 }
 
 .coin-link:hover, .coin-stats:hover{
-    background-color: rgb(253, 0, 139);
+    background-color: rgb(128, 0, 160);
 }
 
 @media screen and (max-width:1000px){
@@ -278,7 +279,7 @@ a:hover{
 
 @media screen and (max-width: 500px){
     .coin-links{
-        padding: 0px;
+        padding: 0px; 
     }
     .coin-detail-container{
         margin: 0;
@@ -287,6 +288,7 @@ a:hover{
 @media screen and (max-width: 500px){
     .heading{
         margin-top: 20px;
+        color: rgb(255, 255, 255);
     }
 }
 
@@ -294,7 +296,7 @@ a:hover{
     width: 180px;
 }
 .news-card{
-    min-height: 300px !important;
+    min-height: 370px !important;
 }
 .news-image-container{
     display: flex !important;
@@ -347,6 +349,7 @@ width: 70%;
     justify-content: space-between;
     align-items: center;
     margin-top: 40px;
+    color: rgb(255, 255, 255);
 }
 .show-more{
     margin-top: 0px !important;
@@ -362,7 +365,7 @@ width: 70%;
     min-height: 65vh !important;
 }
 .crypto-card{
-    min-width: 250px;
+    min-width: 265px;
 }
 .crypto-card .crypto-image{
     width:35px;
